@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "867M9W29RG.ru.kolodasvidaniy.app"
+        ],
+        "components": [
+          {
+            "/": "/g/*",
+            "comment": "gift code"
+          }
+        ]
+      }
+    ]
+  }
+}
